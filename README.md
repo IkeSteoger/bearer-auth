@@ -16,7 +16,8 @@ This is a basic server with basic authentication, both `basicAuth` and `bearerAu
 
 ### Collaborators
 
-Started with CodeFellows starter code.
+Started with CodeFellows starter code!  
+Kaeden O'Maera
 
 ### Setup
 
