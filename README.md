@@ -12,7 +12,7 @@ This is a basic server with basic authentication, both `basicAuth` and `bearerAu
 
 - [GitHub Actions ci/cd](https://github.com/IkeSteoger/bearer-auth/actions)
 <!-- - [back-end dev server url]() -->
-- [back-end prod server url](https://api-server-main.onrender.com)
+- [back-end prod server url](https://bearer-auth-khd3.onrender.com)
 
 ### Collaborators
 
